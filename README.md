@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dillon32300@gmail.com**
 
-- ⚡ Fun fact **WPM - 162**
+- ⚡ Fun fact **WPM - 171**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
