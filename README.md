@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melatoninjr&label=Profile%20views&color=0e75b6&style=flat" alt="melatoninjr" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Express, Django, React, JS, HTML, CSS**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MelatoninJr](https://github.com/MelatoninJr)
 
